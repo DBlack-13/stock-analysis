@@ -11,8 +11,8 @@ We could have run the data individually but the purpose of this project was to a
 Based on the data provided, we ran a code that would scrub through the given data and output the information we wanted to see in a different worksheet. Once we received the data we wanted, we were able to understand which stocks still provided return from 2017 to 2018 and which stocks did not. We noticed that there were only two stocks that has shown proven return in the given two years and they are **ENPH** and **RUN**. 
         Below are images that represent the scrubbed data for both 2017 and 2018
 
- ![](../../../../Challenge_2/resources/VBA_Challenge_2017.PNG)
- ![](../../../../Challenge_2/resources/VBA_Challenge_2018.PNG)
+ ![2017](VBA_Challenge_2017.PNG)
+ ![2018](VBA_Challenge_2018.PNG)
 
 ### **Summary**
 When it comes to refactoring the code there are advantages and disadvantages
