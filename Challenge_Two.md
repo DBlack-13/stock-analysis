@@ -3,14 +3,14 @@
 ### **Overview of Project**
 The purpose of this project was to help Steve and his parents understand which stocks made the most sense to invest in. While there are multiple stocks to choose from, Steve's parents wanted a overview of all the stock options and the outcomes of each stock in 2017 and 2018 so that they can make an informed decision on which stocks to invest in that provided a good return on investment.
 
-    We could have run the data individually but the purpose of this project was to allow our clients actively choose which year they would like the data to run through rather than manually doing it. This would make the process much more efficent for the client to see especially when they are mutiple years to consider and compare to.  
+We could have run the data individually but the purpose of this project was to allow our clients actively choose which year they would like the data to run through rather than manually doing it. This would make the process much more efficent for the client to see especially when they are mutiple years to consider and compare to.  
 
 ### **Results**
 Based on the data provided, we ran a code that would scrub through the given data and output the information we wanted to see in a different worksheet. Once we received the data we wanted, we were able to understand which stocks still provided return from 2017 to 2018 and which stocks did not. We noticed that there were only two stocks that has shown proven return in the given two years and they are **ENPH** and **RUN**. 
         Below are images that represent the scrubbed data for both 2017 and 2018
 
-        ![](file:///c%3A/Users/dblac/Desktop/Class%20Work/Challenge%202/Resources/VBA_Challenge_2017.PNG)
-        ![](file:///c%3A/Users/dblac/Desktop/Class%20Work/Challenge%202/Resources/VBA_Challenge_2018.PNG)
+![](file:///c%3A/Users/dblac/Desktop/Class%20Work/Challenge%202/Resources/VBA_Challenge_2017.PNG)
+![](file:///c%3A/Users/dblac/Desktop/Class%20Work/Challenge%202/Resources/VBA_Challenge_2018.PNG)
 
 ### **Summary**
 When it comes to refactoring the code there are advantages and disadvantages
